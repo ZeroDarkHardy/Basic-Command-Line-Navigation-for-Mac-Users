@@ -42,7 +42,7 @@ To work on files, you need to know how to move between directories (folders).
 ### Check Current Directory
 To see where you are:
 ```bash
-pwd   # Print working directory
+pwd
 ```
 
 ### List Contents of a Directory
